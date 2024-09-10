@@ -11,11 +11,17 @@ A imagem abaixo irá indicar como foi feita a análise deste **Desafio**, onde f
 
 ![Referência da análise](/img/ref.png)
 
+Para visualizar as histórias de usuário e detalhes completos, você pode acessar o quadro diretamente através de: [Quadro Miro](https://miro.com/app/board/uXjVKiy0bZE=/?share_link_id=608347145672)
+
 
 1. Indicação da imagem a ser analisada
+
 2. Indicação de qual requerimento de user story iremos analisar, indicando seu número e nome
+
 3. Descrição em alto nível da user story
+
 4. Listagem das regras de negócio a serem implementadas.
+
 5. Critérios de aceite escritos em alto nível para validar a funcionalidade.
 
 

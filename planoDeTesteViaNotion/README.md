@@ -1,4 +1,4 @@
-# Projeto Lcrei Saúde
+# Projeto Lacrei Saúde
 
 Este projeto foi criado com o propósito de executar o **Plano de Teste** de um projeto. Onde foi levado em consideração analisar um site já existente, realizar levantamento  dos seus requisitos, criação de suítes e casos de teste para a execução.
 
