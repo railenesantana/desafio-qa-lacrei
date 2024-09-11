@@ -93,7 +93,40 @@ Nesta aba, apresento as **estratégias de teste** adotadas para testar o sistema
 
 Nesta aba de **ambiente de teste** apresento tipo de ambiente que foi realizado a execução de teste, o tipo de dispositivo mostra o navegador
 que foi testado, o modelo mostra a versão do navegador e em configurações de Hardware é exibido o tipo de dispositivo físico que foi ralizado o teste e a versão do sistema operacional do computador.	
-		
+
+
+## Ferramentas
+
+Nesta seção, irei descrever as ferramentas que foram utilizadas para a construção e execução deste projeto.
+
+### 1. **Miro**
+
+- Utilizado para o mapeamento de fluxos e brainstorming colaborativo. O Miro foi utilizado para a Análise do Projeto.
+
+### 2. **Notion**
+
+- Utilizado como principal ferramenta de organização e documentação. Nele foram armazenadas o Plano de Teste.
+
+### 3. **GitHub**
+
+- Utilizado para o controle de versão e como apresentação deste portifólio contendo o desafio.
+
+### 4. **ColorZilla**
+
+- Ferramenta de análise de cores, utilizado para garantir a consistência das paletas de cores utilizadas no sistemma.
+
+### 5. **Screenpresso**
+
+- Ferramenta utilizada para gravação de evidências, as evidências incluídas são em formato de: vídeo e screenshot.
+
+### 5. **Android Studio (Celular e Emulador)**
+
+- Utilizado para testes de funcionalidade e responsividade em dispositivos Android, tanto físicos quanto emuladores, garantindo a responsividade e o comportamento adequado do app.
+
+### 6. **Lighthouse**
+
+- Ferramenta utilizada para análise de performance, acessibilidade e SEO do aplicativo, com o objetivo de otimizar o desempenho e garantir uma boa experiência para o usuário final.
+
 ## Resumo dos Resultados e Sugestão de Melhorias
 
 Nesta seção, apresento os resultados com base nas métricas de teste, destacando que todos os requisitos foram cobertos. Foram executados **31 casos de teste**, com **29 aprovados**. Foi identificado **dois** defeitos com severidade **alta**:
