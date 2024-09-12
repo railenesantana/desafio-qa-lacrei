@@ -133,9 +133,9 @@ Nesta seção, apresento os resultados com base nas métricas de teste, destacan
 
 ### Defeitos Identificados
 
-Nesta aba, irei descrever os Bugs encontrados em alto nível e as sugestões de melhorias para o Sistema, para mais detalhes sobre os defeitos encontrados, vá até a seção de issues do **Github** do Link abaixo.
+Nesta aba, irei descrever o Reporte de Bugs encontrados em alto nível e as sugestões de melhorias para o Sistema, para mais detalhes sobre os defeitos encontrados, vá até a seção de issues do **Github** do Link abaixo.
 
-[Ver **Issues** do projeto](https://github.com/railenesantana/desafio-qa-lacrei/issues)
+Clique aqui: [**Issues** do projeto](https://github.com/railenesantana/desafio-qa-lacrei/issues)
 
 - **ID - 13:** A página de login do sistema Lacrei não é responsiva em dispositivos móveis. Quando acessada com campos vazios, os elementos de erro e os botões de “Entrar” e “Criar Conta” não estão corretamente posicionados e não apresentam a devida flexibilidade. Em um dos dispositivos testados, os botões estão muito próximos e a página não segue os padrões de responsividade esperados.
 
