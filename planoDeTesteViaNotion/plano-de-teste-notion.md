@@ -22,9 +22,9 @@ O público alvo são usuários  LGBTQIAPN+, a plataforma oferece acessibilidade
 No escopo de validação teremos:
 
 1. Suíte Animação ao abrir o site
-2.  Suíte Cadastro da pessoa usuária
-3.  Suíte de Boas vindas | Pós cadastro
-4.  Suíte Login de pessoa usuária
+2. Suíte Cadastro da pessoa usuária
+3. Suíte de Boas vindas | Pós cadastro
+4. Suíte Login de pessoa usuária
 5. Suíte Reset de senha
 6. Suíte Buscar por uma pessoa profissional
 7. Suíte Editar perfil de usuário(a)
@@ -64,10 +64,6 @@ Tipos de teste utilizados:
 - Responsividade: são testes para assegurar que o sistema se adapte corretamente em diferentes tamanhos de telas de dispositivos mobile, os testes de responsividade incluem layout flexível e avalia se os botões se adaptam e estão dispostos corretamente na página.
 
 <aside>
-💡
 
-Nesta seção abaixo está as suítes que contém os casos de teste do sistema Lacrei Saúde..
 
 </aside>
-
-[Suítes de Teste](Sui%CC%81tes%20de%20Teste%2038bc00878b394156840f38b9d56e5607.md)
