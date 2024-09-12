@@ -1,6 +1,6 @@
 ## Reporte de Bugs 
 
-Nesta seção irei descrever sobre o modelo de **Reporte de Bugs** que utilizei para o reporte de Bugs encontrados no **Sistema Lacrei**.
+Nesta seção irei descrever sobre o modelo de **Reporte de Bugs** que utilizei para o reporte de Bugs encontrados no **Sistema Lacrei**. O Reporte de Bugs do sistema Lacrei proposto no **Desafio** consta na seção de: [**Issues** desse projeto](https://github.com/railenesantana/desafio-qa-lacrei/issues)
 
 ## Formato de Reporte de Bug 
 
@@ -86,11 +86,11 @@ Nesta seção irei descrever sobre o modelo de **Reporte de Bugs** que utilizei 
 
     - **Vídeos:** Faça upload dos vídeos em uma plataforma de compartilhamento de vídeos ou em um serviço de armazenamento em nuvem e forneça o link no relatório.
 
-    **Exemplo de Evidência:**
+    - **Exemplo de Evidência:**
 
-  **Screenshot:** 
+  - **Screenshot:** 
   
   ![Exemplo de Screenshot](../evidencias/screenshot/id-13-primeiro-device.png)
   
-**Vídeo:**
+  - **Vídeo:**
 [Link do vídeo](../evidencias/videos/id-13-primeiro-device.mp4)
